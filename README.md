@@ -4,7 +4,7 @@ Aplicação criada usando o [Next.js](https://nextjs.org). O desenvolvimento foi
 
 Para a estilização é utilizado o framework [Tailwind CSS](https://tailwindcss.com).
 
-As animações fazem usado da biblioteca [Framer Motion](https://www.framer.com/motion/).
+As animações fazem uso da biblioteca [Framer Motion](https://www.framer.com/motion/).
 
 Foi realizado o deploy da aplicação no site da Vercel e o mesmo pode ser acessado em:
 
